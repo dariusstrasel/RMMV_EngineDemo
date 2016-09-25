@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"expanded":true,"name":"Overworld","order":2,"parentId":2,"scrollX":1131,"scrollY":1219.5},
+{"id":2,"expanded":true,"name":"StartMap","order":1,"parentId":0,"scrollX":1139,"scrollY":632.5},
+{"id":3,"expanded":true,"name":"FirstTown","order":3,"parentId":1,"scrollX":1139,"scrollY":632.5},
+{"id":4,"expanded":false,"name":"StarterHouse","order":4,"parentId":3,"scrollX":1139,"scrollY":632.5},
+{"id":5,"expanded":false,"name":"BackCream","order":5,"parentId":1,"scrollX":1131,"scrollY":2007.5}
+]
